@@ -1,6 +1,6 @@
 ## Maryland Geojson Layers
 
-Common Maryland geographic layers in GeoJSON format.
+Maryland political boundaries in GeoJSON format.
 
 Each layer is simplified to be under 1mb.
 
